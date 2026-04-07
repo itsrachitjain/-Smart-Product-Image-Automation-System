@@ -79,10 +79,10 @@ Adds padding for clean visual layout
 ✔ Timestamp-based output tracking
 
 📁 Project Structure
-├── main.py                # Core automation script  
-├── IMAGE/                # Input image folder  
-├── OUTPUT/               # Generated Excel files  
-└── README.md             # Documentation  
+├── Smart Product Image Automation System.py                 
+├── IMAGE/               
+├── OUTPUT/                
+└── README.md               
 
 🛠 Tech Stack
 
